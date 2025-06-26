@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ x] List anything else that you can get done to improve the app functionality!
--[ x]Added 10 capital city questions with matching flag images
--[ x] Displayed the country flag above each question
--[ x]Added a background image for visual decoration
--[ x] Implemented a launch screen for app startup
--[ x]  Provided immediate feedback ("Correct!" or "Wrong!") after each answer
+- [ x] Added 10 capital city questions with matching flag images
+- [ x] Displayed the country flag above each question
+- [ x] Added a background image for visual decoration
+- [ x] Implemented a launch screen for app startup
+- [ x] Provided immediate feedback ("Correct!" or "Wrong!") after each answer
 
  
    
